@@ -10,8 +10,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "clean": "rm -rf build dist",
-    "clean:all": "rm -fr node_modules build dist package-lock.json"
+    "clean": "rm -rf build dist docs",
+    "clean:all": "rm -fr node_modules build dist docs package-lock.json"
   },
   "eslintConfig": {
     "extends": [
