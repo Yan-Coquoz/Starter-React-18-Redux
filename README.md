@@ -1,4 +1,4 @@
-# Boilerplate React Perso
+# Boilerplate React - Redux - Toolkit Perso
 
 - ![Author](<https://img.shields.io/badge/Author-Yan Coquoz-">)
 - ![GitHub Starter-React-18-Redux size](<https://img.shields.io/github/repo-size/Yan-Coquoz/Starter-React-18-Redux>)  

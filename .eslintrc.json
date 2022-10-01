@@ -11,11 +11,18 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["react"],
+  "plugins": ["react", "react-hooks"],
   "rules": {
-    "no-tabs": ["error", { "allowIndentationTabs": false }],
     "quotes": ["error", "double"],
     "semi": ["error", "always"],
-    "react/no-unescaped-entities": 0
+    "no-tabs": ["error", { "allowIndentationTabs": false }],
+    "react/no-unescaped-entities": 0,
+    "no-duplicate-imports": "error",
+    "react/react-in-jsx-scope": "off",
+    "array-bracket-newline": ["error", { "multiline": true }],
+    "object-curly-spacing": ["error", "always", { "arraysInObjects": false }],
+    "no-use-before-define": 0,
+    "radix": "error",
+    "no-alert": "error"
   }
 }

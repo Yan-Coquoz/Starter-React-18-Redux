@@ -1,0 +1,6 @@
+// Permet d'avoir la racine des compos à partir de src
+{
+  "compilerOptions": {
+    "baseUrl": "./src"
+  }
+}
